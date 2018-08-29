@@ -12,7 +12,7 @@ Declaration
 
 .. code-block:: groovy
 
-int zwnet_init(const zwnet_init_p init, zwnet_p* net)
+	int zwnet_init(const zwnet_init_p init, zwnet_p* net)
 
 Parameters
 --------------
